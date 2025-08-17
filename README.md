@@ -29,4 +29,5 @@ Notifications: Get alerted when someone messages you or responds to your item. N
 - Deployment: we talked about vercel/render
 
 ## [Visit the Website](https://swapswap.sccs.swarthmore.edu/)
+<img width="1372" height="684" alt="Swat Swap Landing Page" src="https://github.com/user-attachments/assets/72176105-d823-41e2-a776-bc95166692b8" />
 
